@@ -1,0 +1,17 @@
+Practice Exercise: Make Vue.js components for each of the following pages in your *contacts app*. (Before you get started, you should run your frontend.rb script to make sure your basic routes are working - contacts index, create, update, show, destory as well as signup, login, and logout):
+
+Install Vue.js (using the cheat sheet)
+
+Install Bootstrap (copy the CSS and JS links from https://getbootstrap.com/docs/4.0/getting-started/introduction/ into your HTML)
+
+Add a Bootstrap navbar (right after the `<div id="vue-app">` and before the `<router-view></router-view>`)
+
+Make signup, login, and logout pages (using the cheat sheet)
+
+Make a contacts index page (using v-for)
+
+Make a contacts new page (similar to the signup or login pages…)
+
+Make a contacts show page (you’ll need `this.$route.params.id`…)
+
+Make a contacts edit page (a combination of the show and new pages)
